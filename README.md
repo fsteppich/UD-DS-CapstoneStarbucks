@@ -74,7 +74,7 @@ and offer characteristics.
 ## Thanks, Authors, Acknowledgements<a name="licensing"></a> 
 Any feedback that helps me to improve this project is welcome.  
 
-You can find me on LinkedIn https://www.linkedin.com/in/fst/
+You can find me on LinkedIn https://www.linkedin.com/in/fsteppich/
 
 This work is licensed under the GNU GPLv3 licence.
 
